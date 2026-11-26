@@ -1,0 +1,61 @@
+﻿student_code,full_name,date_of_birth,class,email
+SV001,Nguyen Van An,2006-02-02,CNTT02,sv001@example.com
+SV002,Tran Thi Binh,2005-03-03,CNTT03,sv002@example.com
+SV003,Le Van Cuong,2006-04-04,CNTT01,sv003@example.com
+SV004,Pham Thi Dung,2005-05-05,CNTT02,sv004@example.com
+SV005,Hoang Van Hanh,2006-06-06,CNTT03,sv005@example.com
+SV006,Do Thi Hoa,2005-07-07,CNTT01,sv006@example.com
+SV007,Bui Van Linh,2006-08-08,CNTT02,sv007@example.com
+SV008,Vu Thi Minh,2005-09-09,CNTT03,sv008@example.com
+SV009,Dang Van Nam,2006-10-10,CNTT01,sv009@example.com
+SV010,Ngo Thi Trang,2005-11-11,CNTT02,sv010@example.com
+SV011,Nguyen Van An,2006-12-12,CNTT03,sv011@example.com
+SV012,Tran Thi Binh,2005-01-13,CNTT01,sv012@example.com
+SV013,Le Van Cuong,2006-02-14,CNTT02,sv013@example.com
+SV014,Pham Thi Dung,2005-03-15,CNTT03,sv014@example.com
+SV015,Hoang Van Hanh,2006-04-16,CNTT01,sv015@example.com
+SV016,Do Thi Hoa,2005-05-17,CNTT02,sv016@example.com
+SV017,Bui Van Linh,2006-06-18,CNTT03,sv017@example.com
+SV018,Vu Thi Minh,2005-07-19,CNTT01,sv018@example.com
+SV019,Dang Van Nam,2006-08-20,CNTT02,sv019@example.com
+SV020,Ngo Thi Trang,2005-09-21,CNTT03,sv020@example.com
+SV021,Nguyen Van An,2006-10-22,CNTT01,sv021@example.com
+SV022,Tran Thi Binh,2005-11-23,CNTT02,sv022@example.com
+SV023,Le Van Cuong,2006-12-24,CNTT03,sv023@example.com
+SV024,Pham Thi Dung,2005-01-25,CNTT01,sv024@example.com
+SV025,Hoang Van Hanh,2006-02-26,CNTT02,sv025@example.com
+SV026,Do Thi Hoa,2005-03-27,CNTT03,sv026@example.com
+SV027,Bui Van Linh,2006-04-01,CNTT01,sv027@example.com
+SV028,Vu Thi Minh,2005-05-02,CNTT02,sv028@example.com
+SV029,Dang Van Nam,2006-06-03,CNTT03,sv029@example.com
+SV030,Ngo Thi Trang,2005-07-04,CNTT01,sv030@example.com
+SV031,Nguyen Van An,2006-08-05,CNTT02,sv031@example.com
+SV032,Tran Thi Binh,2005-09-06,CNTT03,sv032@example.com
+SV033,Le Van Cuong,2006-10-07,CNTT01,sv033@example.com
+SV034,Pham Thi Dung,2005-11-08,CNTT02,sv034@example.com
+SV035,Hoang Van Hanh,2006-12-09,CNTT03,sv035@example.com
+SV036,Do Thi Hoa,2005-01-10,CNTT01,sv036@example.com
+SV037,Bui Van Linh,2006-02-11,CNTT02,sv037@example.com
+SV038,Vu Thi Minh,2005-03-12,CNTT03,sv038@example.com
+SV039,Dang Van Nam,2006-04-13,CNTT01,sv039@example.com
+SV040,Ngo Thi Trang,2005-05-14,CNTT02,sv040@example.com
+,Nguyen Van A,2006-01-15,CNTT01,a@example.com
+SV042,,2006-02-15,CNTT01,b@example.com
+SV043,Le Van C,31/02/2006,CNTT02,c@example.com
+SV044,Pham Thi D,not-a-date,CNTT02,d@example.com
+SV045,Hoang Van E,2006-05-20,,e@example.com
+SV046,Do Thi F,,CNTT03,f@example.com
+SV047,Bui Van G,2035-01-01,CNTT01,g@example.com
+SV048,Vu Thi H,2006/99/99,CNTT02,h@example.com
+SV001,Nguyen Van An,2006-02-02,CNTT02,sv001@example.com
+SV002,Tran Thi Binh,2005-03-03,CNTT03,sv002@example.com
+SV003,Le Van Cuong,2006-04-04,CNTT01,sv003@example.com
+SV004,Pham Thi Dung,2005-05-05,CNTT02,sv004@example.com
+SV005,Hoang Van Hanh,2006-06-06,CNTT03,sv005@example.com
+SV006,Do Thi Hoa,2005-07-07,CNTT01,sv006@example.com
+SV007,Bui Van Linh,2006-08-08,CNTT02,sv007@example.com
+SV008,Vu Thi Minh,2005-09-09,CNTT03,sv008@example.com
+sv049,  Nguyen Van K  ,15/10/2006,CNTT01,k@example.com
+ SV050 ,Tran Thi L,20/05/2006,CNTT02,l@example.com
+sv051,Le Van M ,2005-12-20,CNTT03,m@example.com
+ SV052 ,Pham Thi N,01/08/2006,CNTT01,n@example.com
